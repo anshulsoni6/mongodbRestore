@@ -9,5 +9,5 @@ A script written in `javascript` to restore data from `bson files (i.e binary js
 
 # How to use this script ?
 ```sh
-$ node mongodbRestoreFromBson.js yourFolderPathContainingBsonFiles yourDbName';
+$ node mongodbRestoreFromBson.js yourFolderPathContainingBsonFiles yourDbName;
 ```
